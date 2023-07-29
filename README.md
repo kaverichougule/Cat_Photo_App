@@ -1,4 +1,4 @@
-Hosted link:- 
+Hosted link:- https://kaverichougule.github.io/Cat_Photo_App/
 
 # Cat Photo App
 ![image](https://github.com/kaverichougule/Cat_Photo_App/assets/101037685/4381e7d9-d25b-49af-bf1d-922d4d528ba3)
@@ -21,6 +21,13 @@ th: Represents a table header cell, used within 'tr' to define header cells. <br
 td: Represents a table data cell, used within 'tr' to define data cells. 
   
 # Summary
+![image](https://github.com/kaverichougule/Cat_Photo_App/assets/101037685/d1fa9d59-696c-44be-b45c-8c31bd96cfa2)
+The final section provides a summary with different text formatting tags.
+b: Represents bold text, used for emphasizing text in the "Summary" section. <br>
+i: Represents italicized text, used for adding emphasis to specific words. <br>
+em: Represents emphasized text, similar to <i>, used to emphasize content. <br>
+strong: Represents strongly emphasized text, used to highlight important content. <br>
+
 
 
 
